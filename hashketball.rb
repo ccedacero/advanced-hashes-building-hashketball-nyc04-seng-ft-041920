@@ -5,13 +5,11 @@ def game_hash()
     :colors => ["Black", "White"],
     :players => [{
       
-      
-      
     }]
   },
   :away => {
     :team_name => {"Charlotte Hornets"},
-    :colors => ["Turquoise", "Purple"]
+    :colors => ["Turquoise", "Purple"],
     :players => {}
   }
   }
