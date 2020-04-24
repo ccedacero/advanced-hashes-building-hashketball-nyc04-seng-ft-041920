@@ -1,6 +1,10 @@
 def game_hash()
  stats = {
-  :home => {},
+  :home => {
+    :team_name => {},
+    :colors => {},
+    :players => {}
+  },
   :away => {}
   }
 return stats 
