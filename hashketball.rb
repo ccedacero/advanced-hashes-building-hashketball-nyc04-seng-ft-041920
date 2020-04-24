@@ -1,12 +1,12 @@
 def game_hash()
  stats = {
   :home => {
-    :team_name => {"Brooklyn Nets"},
+    :team_name => "Brooklyn Nets",
     :colors => ["Black", "White"],
     :players => []
   },
   :away => {
-    :team_name => {"Charlotte Hornets"},
+    :team_name => "Charlotte Hornets",
     :colors => ["Turquoise", "Purple"],
     :players => {}
   }
